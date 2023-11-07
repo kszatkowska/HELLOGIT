@@ -1,4 +1,4 @@
 # HELLOGIT
 Przykładowe repozytorium do nauki obsługi gita
 # Credits
-Repozytorium stworzeone podczas kusrsu na PUT
+Repozytorium stworzeone podczas kursu na PUT
